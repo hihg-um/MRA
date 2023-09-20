@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-2.0
+
 # Meta-Reductive Analysis (MRA) function
 # This function adjusts a full meta-analysis dataset by removing the effects of individual-level data.
 
